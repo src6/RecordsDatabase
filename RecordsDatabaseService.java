@@ -5,7 +5,6 @@
  * This class implements the database access service, i.e. opens a JDBC connection
  * to the database, makes and retrieves the query, and sends back the result.
  *
- * author: 2620745
  *
  */
 
