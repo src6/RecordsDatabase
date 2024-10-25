@@ -5,7 +5,6 @@
  * A naive JavaFX for connecting to the database server and interact
  * with the database.
  *
- * author: 2620745
  *
  */
 
