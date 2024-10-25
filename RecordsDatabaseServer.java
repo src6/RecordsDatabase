@@ -4,7 +4,6 @@
  * The server main class.
  * This server provides a service to access the Records database.
  *
- * author: 2620745
  *
  */
 
